@@ -1,8 +1,0 @@
-D:\SZOP gyakorlás\Konzerv\KonzervGyár\KonzervGyár\bin\Debug\KonzervGyár.exe.config
-D:\SZOP gyakorlás\Konzerv\KonzervGyár\KonzervGyár\bin\Debug\KonzervGyár.exe
-D:\SZOP gyakorlás\Konzerv\KonzervGyár\KonzervGyár\bin\Debug\KonzervGyár.pdb
-D:\SZOP gyakorlás\Konzerv\KonzervGyár\KonzervGyár\obj\Debug\KonzervGyár.csproj.AssemblyReference.cache
-D:\SZOP gyakorlás\Konzerv\KonzervGyár\KonzervGyár\obj\Debug\KonzervGyár.csproj.SuggestedBindingRedirects.cache
-D:\SZOP gyakorlás\Konzerv\KonzervGyár\KonzervGyár\obj\Debug\KonzervGyár.csproj.CoreCompileInputs.cache
-D:\SZOP gyakorlás\Konzerv\KonzervGyár\KonzervGyár\obj\Debug\KonzervGyár.exe
-D:\SZOP gyakorlás\Konzerv\KonzervGyár\KonzervGyár\obj\Debug\KonzervGyár.pdb

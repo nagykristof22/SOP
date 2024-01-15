@@ -1,8 +1,0 @@
-D:\SZOP gyakorlás\Chat\Chat\Chat\bin\Debug\Chat.exe.config
-D:\SZOP gyakorlás\Chat\Chat\Chat\bin\Debug\Chat.exe
-D:\SZOP gyakorlás\Chat\Chat\Chat\bin\Debug\Chat.pdb
-D:\SZOP gyakorlás\Chat\Chat\Chat\obj\Debug\Chat.csproj.AssemblyReference.cache
-D:\SZOP gyakorlás\Chat\Chat\Chat\obj\Debug\Chat.csproj.SuggestedBindingRedirects.cache
-D:\SZOP gyakorlás\Chat\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
-D:\SZOP gyakorlás\Chat\Chat\Chat\obj\Debug\Chat.exe
-D:\SZOP gyakorlás\Chat\Chat\Chat\obj\Debug\Chat.pdb

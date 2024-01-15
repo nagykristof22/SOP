@@ -1,0 +1,61 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcClient";
+
+package KonyvSziget;
+
+service KonyvSziget
+{
+	rpc Login(LoginRequest) returns (LoginResponse) {}
+	rpc Register(RegisterRequest) returns (RegisterResponse) {}
+	rpc List(Empty) returns (stream Books) {}
+	rpc AddBook(AddRequest) returns (AddResponse) {}
+}
+
+
+message LoginRequest{
+	string username = 1;
+	string password = 2;
+}
+message LoginResponse{
+	bool success = 1;
+	string message = 2;
+}
+message RegisterRequest{
+	int32 id = 1;
+	string username = 2;
+	string email = 3;
+	string password = 4;
+	string role = 5;
+}
+message RegisterResponse{
+	bool success = 1;
+	string message = 2;
+}
+
+message Empty{
+}
+
+message Books{
+	int32 id = 1;
+	string name = 2;
+	string writer = 3;
+	string category = 4;
+	string description = 5;
+}
+
+message AddRequest{
+	int32 id = 1;
+	string name = 2;
+	string writer = 3;
+	string category = 4;
+	string description = 5;
+}
+
+message AddResponse{
+	bool success = 1;
+	string message = 2;
+}
+
+
+

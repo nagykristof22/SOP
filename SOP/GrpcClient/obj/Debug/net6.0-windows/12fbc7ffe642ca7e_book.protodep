@@ -1,0 +1,2 @@
+obj\Debug\net6.0-windows\Protos/Book.cs \
+obj\Debug\net6.0-windows\Protos/BookGrpc.cs: Protos/book.proto
